@@ -126,8 +126,6 @@ namespace MyCompanyEmployees
             get { return _selectedEmployee; }
             set
             {
-
-                //MessageBox.Show(_selectedItem.GetType().FullName);
                 _selectedEmployee = value;
                 OnPropertyChanged("SelectedEmployee");
             }
