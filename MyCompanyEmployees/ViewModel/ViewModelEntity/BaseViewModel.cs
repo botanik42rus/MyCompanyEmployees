@@ -1,15 +1,4 @@
-﻿using System;
-using System.Collections.ObjectModel;
-using System.Windows.Input;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.ComponentModel;
-using System.Runtime.CompilerServices;
-using System.IO;
-using ProtoBuf;
-using System.Windows;
-using System.Reflection;
+﻿using System.ComponentModel;
 
 namespace MyCompanyEmployees
 {
